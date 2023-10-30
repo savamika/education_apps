@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614121898121",
+    "project_id": "ajarin-910f5",
+    "storage_bucket": "ajarin-910f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614121898121:android:2a69e9d823bae044324658",
+        "android_client_info": {
+          "package_name": "com.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614121898121-dld98ntgask4psp3sv2640l2cnevsk2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5o1luSbuuW9yMCAK4V-LDPvu-MLsZ71I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614121898121-dld98ntgask4psp3sv2640l2cnevsk2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
